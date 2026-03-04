@@ -1,4 +1,3 @@
-# portfolio
 # Personal Portfolio – Lokesh S
 
 This is my personal portfolio website that showcases my skills, projects, and certifications.
