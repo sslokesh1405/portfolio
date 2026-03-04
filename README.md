@@ -44,6 +44,7 @@ The website is designed to present my work and technical abilities as a Software
 ## Live Portfolio
 
 You can view the portfolio here:
+https://sslokesh1405.github.io/portfolio/
 
 ## Author
 
